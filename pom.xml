@@ -47,9 +47,9 @@
     </licenses>
 
     <scm>
-        <url>http://github.com/webjars/zenorocha/clipboard.js</url>
-        <connection>scm:git:https://github.com/webjars/zenorocha/clipboard.js.git</connection>
-        <developerConnection>scm:git:https://github.com/webjars/zenorocha/clipboard.js.git</developerConnection>
+        <url>http://github.com/webjars/clipboard.js</url>
+        <connection>scm:git:https://github.com/webjars/clipboard.js.git</connection>
+        <developerConnection>scm:git:https://github.com/webjars/clipboard.js.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 

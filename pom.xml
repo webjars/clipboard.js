@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>clipboard.js</artifactId>
-    <version>1.7.1-SNAPSHOT</version>
+    <version>1.7.1</version>
     <name>clipboard.js</name>
     <description>WebJar for clipboard.js</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/clipboard.js</url>
         <connection>scm:git:https://github.com/webjars/clipboard.js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/clipboard.js.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>clipboard.js-1.7.1</tag>
     </scm>
 
     <build>
